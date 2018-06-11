@@ -1,6 +1,12 @@
 {
+  "name": "resume-deploy",
+  "version": "1.0.0",
+  "dependencies": {
+    "resume-cli": "^0.4.19",
+    "jsonresume-theme-elegant": "^1.11.2"
+  },
   "scripts": {
-    "start": "npm install && npm run build && npm install -g resume-cli && npm install -g jsonresume-theme-elegant",
+    "start": "npm install && npm run build",
     "build": "resume export dist/index.html -t elegant"
   }
 }
