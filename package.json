@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "npm install && npm run build && npm install -g resume-cli && npm install -g jsonresume-theme-elegant",
+    "build": "resume export dist/index.html -t elegant"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "basics": {
+    "name": "Oskar Flores",
+    "label": "Software Developer",
+    "picture": "",
+    "email": "oskar.flores@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "Software developer with more than 8+  years of experience.Outgoing and detail-oriented, I am proficient at building and maintaining professional software, and i like well clean and well designed software.",
+    "location": {
+      "address": "Kampanzar Iribidea, 9, 10B",
+      "postalCode": "48920",
+      "city": "Portugalete",
+      "countryCode": "Spain",
+      "region": "Basque Country"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Isetic",
+      "position": "Big data/Backend Developer",
+      "website": "http://www.isetic.com",
+      "startDate": "2018-02-01",
+      "endDate": "",
+      "summary": "Isetic is the company behind Zeus platform. Zeus is a cloud computing software that proceses data from industrial and factory machines in order to monitorize, check and predict machine and factory pieces status, Using Java 8 and Python",
+      "highlights": [
+        "Build a backend processor, in java 8, to read data form PLC, aggregate it and save into AWS Dynamo NoSql database",
+        "Create and and several API using SpringBoot, using docker and deploying them into AWS container services",
+        "Using Ansible to create infrastructure as a code, and use it to provision EC2 instances to deploy other services and Lamda Functions "
+      ]
+    },
+    {
+      "company": "Ve Interactive / Ve Global",
+      "position": "Big data/Backend Developer",
+      "website": "https://www.ve.com",
+      "startDate": "2016-01-01",
+      "endDate": "2018-02-01",
+      "summary": "Creation of a API based Recommended System, Deployed into a Mesos/Marathon environmet. Design and implement a realtime processing data using Apache Storm and Hbase as database, Using Java 8 , SpringBoot, Spark and Scala",
+      "highlights": [
+        "Data form the real time Engine is processed with Scala/Spark pipeline",
+        "The realtime processing service uses Kafka Queues to distribite the messages between the different pieces ",
+        "The The recommended system is composed by dierent API done using SpringBoot and Docker",
+        "The project is developed using Scrum Metodology, in a CI/CD pipeline",
+        "Several metrics from different services are gathered into a Graphana/InfluxDb for system monitoring"
+      ]
+    },
+    {
+      "company": "Ve Interactive",
+      "position": "DevOps",
+      "website": "https://www.ve.com",
+      "startDate": "2015-02-01",
+      "endDate": "2016-01-01",
+      "summary": "Migrate All on premise Server Architecture for VeInteractive to Cloud Based one",
+      "highlights": [
+        "Moved more than 400 machines to Azure",
+        "A totally automatized Environment using Puppet and Azure ARM "
+      ]
+    },
+    {
+      "company": "Deloitte DxD",
+      "position": "Software Developer",
+      "website": "https://www2.deloitte.com/es/es.html",
+      "startDate": "2013-01-01",
+      "endDate": "2015-02-01",
+      "summary": " Analysis and evolutionary development of the integral platform of environmental management of the Basque government, integrated with PLATEA, the electronic processing platform of the Basque Government",
+      "highlights": [
+        "Developed using Java 5, deployed in a Webpshere server, with Ejb2 and JSP for the view"
+      ]
+    },
+    {
+      "company": "Datinet",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2008-06-01",
+      "endDate": "2013-01-01",
+      "summary": "Developing different software solutions in this consulting company, with different technologies, mainly Java and C#",
+      "highlights": [
+        "Jsp, Ejb2 and WebSpehre as development stack",
+        "Oracle 11G as database engine",
+        "Working for different clients as Basque Health Service, Liberty Insurance or Iberdola"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Unversity of Basque Country",
+      "area": "Technical Computer Engineer",
+      "studyType": "Technical Engineer",
+      "startDate": "2003-01-01",
+      "endDate": "2008-01-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Bilbao Mikeldi Studies Centre ",
+      "area": "Associational Degree in Software Development",
+      "studyType": "Associational Degree",
+      "startDate": "2000-01-01",
+      "endDate": "2002-01-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Springboot",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": [
+        "Mesos",
+        "Marathon"
+      ]
+    },
+    {
+      "name": "Kafka",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "Hbase",
+        "DynamoDb",
+        "Oracle 11G",
+        "MySql",
+        "Elastic Search"
+      ]
+    },
+    {
+      "name": "Continuous Delivery",
+      "level": "",
+      "keywords": [
+        "TeamCity",
+        "Unit Testing",
+        "Integration Testing"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": [
+        "Puppet 3.8",
+        "Ansible 2.2",
+        "Azure ARM",
+        "Aws"
+      ]
+    },
+    {
+      "name": "Apache Spark",
+      "level": "",
+      "keywords": [
+        "Scala",
+        "ETL",
+        "Massive Data Processing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Conversational"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
