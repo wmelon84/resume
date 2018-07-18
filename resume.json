@@ -25,9 +25,10 @@
       "endDate": "",
       "summary": "Isetic is the company behind Zeus platform. Zeus is a cloud computing software that proceses data from industrial and factory machines in order to monitorize, check and predict machine and factory pieces status, Using Java 8 and Python",
       "highlights": [
+        "Design and build a Machine Learning pipeline (Data process and Api), for anomaly detection in IIot industrial engineering Machines",
         "Build a backend processor, in java 8, to read data form PLC, aggregate it and save into AWS Dynamo NoSql database",
         "Create and and several API using SpringBoot, using docker and deploying them into AWS container services",
-        "Using Ansible to create infrastructure as a code, and use it to provision EC2 instances to deploy other services and Lamda Functions "
+        "Using Ansible to create infrastructure as a code, and use it to provision EC2 instances to deploy other services and Lambda Functions "
       ]
     },
     {
@@ -36,12 +37,12 @@
       "website": "https://www.ve.com",
       "startDate": "2016-01-01",
       "endDate": "2018-02-01",
-      "summary": "Creation of a API based Recommended System, Deployed into a Mesos/Marathon environmet. Design and implement a realtime processing data using Apache Storm and Hbase as database, Using Java 8 , SpringBoot, Spark and Scala",
+      "summary": "Creation of a API based Recommended System, Deployed into a Mesos/Marathon environment. Design and implement a real time processing data using Apache Storm and Hbase as database, Using Java 8 , SpringBoot, Spark and Scala",
       "highlights": [
         "Data form the real time Engine is processed with Scala/Spark pipeline",
-        "The realtime processing service uses Kafka Queues to distribite the messages between the different pieces ",
-        "The The recommended system is composed by dierent API done using SpringBoot and Docker",
-        "The project is developed using Scrum Metodology, in a CI/CD pipeline",
+        "The real time processing service uses Kafka Queues to distribite the messages between the different pieces ",
+        "The The recommended system is composed by diferent API done using SpringBoot and Docker",
+        "The project is developed using Scrum Methodology, in a CI/CD pipeline",
         "Several metrics from different services are gathered into a Graphana/InfluxDb for system monitoring"
       ]
     },
@@ -76,7 +77,7 @@
       "endDate": "2013-01-01",
       "summary": "Developing different software solutions in this consulting company, with different technologies, mainly Java and C#",
       "highlights": [
-        "Jsp, Ejb2 and WebSpehre as development stack",
+        "Jsp, Ejb2 and WebSphere as development stack",
         "Oracle 11G as database engine",
         "Working for different clients as Basque Health Service, Liberty Insurance or Iberdola"
       ]
