@@ -26,6 +26,8 @@
       "summary": "Isetic is the company behind Zeus platform. Zeus is a cloud computing software that proceses data from industrial and factory machines in order to monitorize, check and predict machine and factory pieces status, Using Java 8 and Python",
       "highlights": [
         "Design and build a Machine Learning pipeline (Data process and Api), for anomaly detection in IIot industrial engineering Machines",
+        "Build and desing a Distributed , message based, multi-threaded java data processors using Rabbit MQ and Amazon Kinesis"
+        "Java preocessors, make a heavy use of Redis for data sharing, and data access optimization"
         "Build a backend processor, in java 8, to read data form PLC, aggregate it and save into AWS Dynamo NoSql database",
         "Create and and several API using SpringBoot, using docker and deploying them into AWS container services",
         "Using Ansible to create infrastructure as a code, and use it to provision EC2 instances to deploy other services and Lambda Functions "
