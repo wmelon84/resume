@@ -1,120 +1,37 @@
 {
   "basics": {
-    "name": "Oskar Flores",
-    "label": "Software Developer",
-    "picture": "",
-    "email": "oskar.flores@gmail.com",
+    "name": "Avelino Collar Salazar",
+    "label": "Software Engineer",
+    "picture": "face.jpg",
+    "email": "avelino.collar@gmail.com",
     "phone": "",
     "website": "",
-    "summary": "Software developer with more than 8+  years of experience.Outgoing and detail-oriented, I am proficient at building and maintaining professional software, and i like well clean and well designed software.",
+    "summary": "I am a software engineer with 8+ years of experience focused on well-designed and implemented software.\n\nI like to apply best practices and industry standards, and I am also a team player with experience in Scrum working environments.\n\nCurrently, I work as Ingram Micro Cloud’s Integration Developer, designing applications to manage IaaS seamlessly by the end user.\n\nPreviously, I was part of a Scrum team in charge of developing a complex set of applications (APIs, real-time processing apps, NoSQL databases, etc) managing products, users, and statistics to provide the best recommendations for third-party e-commerce sites.",
     "location": {
-      "address": "Kampanzar Iribidea, 9, 10B",
-      "postalCode": "48920",
-      "city": "Portugalete",
+      "address": "",
+      "postalCode": "",
+      "city": "",
       "countryCode": "Spain",
-      "region": "Basque Country"
+      "region": "Cantabria"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "avelinocollar",
+        "url": "https://www.linkedin.com/in/avelinocollar/"
+      }
+    ]
   },
-  "work": [
-    {
-      "company": "Isetic",
-      "position": "Big data/Backend Developer",
-      "website": "http://www.isetic.com",
-      "startDate": "2018-02-01",
-      "endDate": "",
-      "summary": "Isetic is the company behind Zeus platform. Zeus is a cloud computing software that proceses data from industrial and factory machines in order to monitorize, check and predict machine and factory pieces status, Using Java 8 and Python",
-      "highlights": [
-        "Design and build a Machine Learning pipeline (Data process and Api), for anomaly detection in IIot industrial engineering Machines",
-        "Build and desing a Distributed , message based, multi-threaded java data processors using Rabbit MQ and Amazon Kinesis",
-        "Java preocessors, make a heavy use of Redis for data sharing, and data access optimization",
-        "Build a backend processor, in java 8, to read data form PLC, aggregate it and save into AWS Dynamo NoSql database",
-        "Create and and several API using SpringBoot, using docker and deploying them into AWS container services",
-        "Using Ansible to create infrastructure as a code, and use it to provision EC2 instances to deploy other services and Lambda Functions"
-      ]
-    },
-    {
-      "company": "Ve Interactive / Ve Global",
-      "position": "Big data/Backend Developer",
-      "website": "https://www.ve.com",
-      "startDate": "2016-01-01",
-      "endDate": "2018-02-01",
-      "summary": "Creation of a API based Recommended System, Deployed into a Mesos/Marathon environment. Design and implement a real time processing data using Apache Storm and Hbase as database, Using Java 8 , SpringBoot, Spark and Scala",
-      "highlights": [
-        "Data form the real time Engine is processed with Scala/Spark pipeline",
-        "The real time processing service uses Kafka Queues to distribite the messages between the different pieces ",
-        "The The recommended system is composed by diferent API done using SpringBoot and Docker",
-        "The project is developed using Scrum Methodology, in a CI/CD pipeline",
-        "Several metrics from different services are gathered into a Graphana/InfluxDb for system monitoring"
-      ]
-    },
-    {
-      "company": "Ve Interactive",
-      "position": "DevOps",
-      "website": "https://www.ve.com",
-      "startDate": "2015-02-01",
-      "endDate": "2016-01-01",
-      "summary": "Migrate All on premise Server Architecture for VeInteractive to Cloud Based one",
-      "highlights": [
-        "Moved more than 400 machines to Azure",
-        "A totally automatized Environment using Puppet and Azure ARM "
-      ]
-    },
-    {
-      "company": "Deloitte DxD",
-      "position": "Software Developer",
-      "website": "https://www2.deloitte.com/es/es.html",
-      "startDate": "2013-01-01",
-      "endDate": "2015-02-01",
-      "summary": " Analysis and evolutionary development of the integral platform of environmental management of the Basque government, integrated with PLATEA, the electronic processing platform of the Basque Government",
-      "highlights": [
-        "Developed using Java 5, deployed in a Webpshere server, with Ejb2 and JSP for the view"
-      ]
-    },
-    {
-      "company": "Datinet",
-      "position": "Software Developer",
-      "website": "",
-      "startDate": "2008-06-01",
-      "endDate": "2013-01-01",
-      "summary": "Developing different software solutions in this consulting company, with different technologies, mainly Java and C#",
-      "highlights": [
-        "Jsp, Ejb2 and WebSphere as development stack",
-        "Oracle 11G as database engine",
-        "Working for different clients as Basque Health Service, Liberty Insurance or Iberdola"
-      ]
-    }
-  ],
+  "work": [],
   "volunteer": [],
-  "education": [
-    {
-      "institution": "Unversity of Basque Country",
-      "area": "Technical Computer Engineer",
-      "studyType": "Technical Engineer",
-      "startDate": "2003-01-01",
-      "endDate": "2008-01-01",
-      "gpa": "",
-      "courses": []
-    },
-    {
-      "institution": "Bilbao Mikeldi Studies Centre ",
-      "area": "Associational Degree in Software Development",
-      "studyType": "Associational Degree",
-      "startDate": "2000-01-01",
-      "endDate": "2002-01-01",
-      "gpa": "",
-      "courses": []
-    }
-  ],
+  "education": [],
   "awards": [],
   "publications": [],
   "skills": [
     {
       "name": "Java",
       "level": "",
-      "keywords": [
-        ""
-      ]
+      "keywords": []
     },
     {
       "name": "Springboot",
@@ -130,13 +47,13 @@
       ]
     },
     {
-      "name": "Kafka",
-      "level": "",
+      "name": "Scrum",
+      "level": "Expert Scrum Foundations",
       "keywords": []
     },
     {
-      "name": "Scrum",
-      "level": "",
+      "name": "AWS",
+      "level": "AWS Certified Cloud Practitioner",
       "keywords": []
     },
     {
@@ -145,44 +62,26 @@
       "keywords": [
         "Hbase",
         "DynamoDb",
-        "Oracle 11G",
         "MySql",
-        "Elastic Search"
+        "Elasticsearch"
       ]
     },
     {
       "name": "Continuous Delivery",
       "level": "",
       "keywords": [
+        "Jenkins",
         "TeamCity",
         "Unit Testing",
-        "Integration Testing"
-      ]
-    },
-    {
-      "name": "DevOps",
-      "level": "",
-      "keywords": [
-        "Puppet 3.8",
-        "Ansible 2.2",
-        "Azure ARM",
-        "Aws"
-      ]
-    },
-    {
-      "name": "Apache Spark",
-      "level": "",
-      "keywords": [
-        "Scala",
-        "ETL",
-        "Massive Data Processing"
+        "Integration Testing",
+        "BDD Testing"
       ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Conversational"
+      "fluency": "Professional"
     },
     {
       "language": "Spanish",

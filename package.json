@@ -2,7 +2,7 @@
   "name": "resume-deploy",
   "version": "1.0.0",
   "dependencies": {
-    "resume-cli": "^0.4.19",
+    "resume-cli": "^1.1.2",
     "jsonresume-theme-elegant": "^1.11.2"
   },
   "scripts": {
