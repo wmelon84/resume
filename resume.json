@@ -6,7 +6,7 @@
     "email": "avelino.collar@gmail.com",
     "phone": "",
     "website": "",
-    "summary": "I am a software engineer with 8+ years of experience focused on well-designed and implemented software.\n\nI like to apply best practices and industry standards, and I am also a team player with experience in Scrum working environments.\n\nCurrently, I work as Ingram Micro Cloud’s Integration Developer, designing applications to manage IaaS seamlessly by the end user.\n\nPreviously, I was part of a Scrum team in charge of developing a complex set of applications (APIs, real-time processing apps, NoSQL databases, etc) managing products, users, and statistics to provide the best recommendations for third-party e-commerce sites.",
+    "summary": "I am a software engineer with 8+ years of experience focused on well-designed and implemented software.\n\nI like to apply best practices and industry standards, and I am also a team player with experience in Scrum working environments.\nCurrently, I work as Ingram Micro Cloud’s Integration Developer, designing applications to manage IaaS seamlessly by the end user.\n\nPreviously, I was part of a Scrum team in charge of developing a complex set of applications (APIs, real-time processing apps, NoSQL databases, etc) to manage products, users, and statistics to provide the best recommendations for third-party e-commerce sites.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -22,59 +22,134 @@
       }
     ]
   },
-  "work": [],
-  "volunteer": [],
+  "work": [
+    {
+      "company": "Ingram Micro Cloud",
+      "position": "Cloud Integration Developer",
+      "website": "https://www.ingrammicrocloud.com",
+      "startDate": "2018-01-15"
+    },
+    {
+      "company": "Ve Global",
+      "position": "Big Data Software Developer",
+      "website": "https://www.ve.com",
+      "startDate": "2016-05-19",
+      "endDate": "2017-10-20"
+    },
+    {
+      "company": "Stratio",
+      "position": "Big Data Software Developer",
+      "website": "https://www.stratio.com",
+      "startDate": "2015-08-01",
+      "endDate": "2016-05-01"
+    },
+    {
+      "company": "Fon",
+      "position": "Java Developer",
+      "website": "https://fon.com",
+      "startDate": "2012-08-01",
+      "endDate": "2015-08-01"
+    },
+    {
+      "company": "Drago Solutions",
+      "position": "Java Developer",
+      "website": "http://www.dragosolutions.com",
+      "startDate": "2011-01-01",
+      "endDate": "2012-08-01"
+    }
+  ],
   "education": [],
-  "awards": [],
-  "publications": [],
   "skills": [
     {
-      "name": "Java",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Springboot",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Docker",
-      "level": "",
+      "name": "Programming languages",
       "keywords": [
+        "Java",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Spring",
+        "Springboot",
+        "Spark"
+      ]
+    },
+    {
+      "name": "Testing",
+      "keywords": [
+        "Unit Test",
+        "Integration Test",
+        "TDD",
+        "BDD",
+        "Cucumber",
+        "PHPUnit",
+        "JUnit"
+      ]
+    },
+    {
+      "name": "Scrum",
+      "level": "Certified",
+      "keywords": [
+        "Expert Scrum Foundations"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Certified",
+      "keywords": [
+        "AWS Certified Cloud Practitioner"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "MySQL",
+        "Elasticsearch",
+        "HBase",
+        "DynamoDB"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "keywords": [
+        "Jenkins",
+        "TeamCity",
+        "Docker",
         "Mesos",
         "Marathon"
       ]
     },
     {
-      "name": "Scrum",
-      "level": "Expert Scrum Foundations",
-      "keywords": []
-    },
-    {
-      "name": "AWS",
-      "level": "AWS Certified Cloud Practitioner",
-      "keywords": []
-    },
-    {
-      "name": "Databases",
-      "level": "",
+      "name": "Dependency managers",
       "keywords": [
-        "Hbase",
-        "DynamoDb",
-        "MySql",
-        "Elasticsearch"
+        "Composer",
+        "Maven",
+        "Gradle"
       ]
     },
     {
-      "name": "Continuous Delivery",
+      "name": "IDEs",
       "level": "",
       "keywords": [
-        "Jenkins",
-        "TeamCity",
-        "Unit Testing",
-        "Integration Testing",
-        "BDD Testing"
+        "IntelliJ",
+        "PhpStorm"
+      ]
+    },
+    {
+      "name": "Operative Systems",
+      "keywords": [
+        "Ubuntu",
+        "macOS"
+      ]
+    },
+    {
+      "name": "Other skills",
+      "keywords": [
+        "Jira",
+        "Confluence",
+        "Git",
+        "Bitbucket"
       ]
     }
   ],
@@ -82,12 +157,29 @@
     {
       "language": "English",
       "fluency": "Professional"
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Native Speaker"
     }
   ],
-  "interests": [],
-  "references": []
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Concerts",
+        "Festivals"
+      ]
+    },
+    {
+      "name": "Travelling"
+    },
+    {
+      "name": "Series"
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Pilates",
+        "Spinning",
+        "Padel"
+      ]
+    }
+  ]
 }
