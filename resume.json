@@ -4,13 +4,9 @@
     "label": "Software Engineer",
     "picture": "face.jpg",
     "email": "avelino.collar@gmail.com",
-    "phone": "",
-    "website": "",
+    "website": "https://www.avelinocollar.com",
     "summary": "I am a software engineer with 8+ years of experience focused on well-designed and implemented software.\n\nI like to apply best practices and industry standards, and I am also a team player with experience in Scrum working environments.\nCurrently, I work as Ingram Micro Cloud’s Integration Developer, designing applications to manage IaaS seamlessly by the end user.\n\nPreviously, I was part of a Scrum team in charge of developing a complex set of applications (APIs, real-time processing apps, NoSQL databases, etc) to manage products, users, and statistics to provide the best recommendations for third-party e-commerce sites.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
       "countryCode": "Spain",
       "region": "Cantabria"
     },
@@ -27,7 +23,15 @@
       "company": "Ingram Micro Cloud",
       "position": "Cloud Integration Developer",
       "website": "https://www.ingrammicrocloud.com",
-      "startDate": "2018-01-15"
+      "startDate": "2018-01-15",
+      "summary": "Analyze and implement several applications to work as integration between Ingram's Micro Platform and vendors of all kinds",
+      "highlights": [
+        "Analyze product and tech requirements and define technical design for the its implementation",
+        "Implement the business logic in PHP and the unit tests with PHPUnit framework. Manage dependencies with Composer",
+        "Implement a complete set of end-to-end tests with BDD approach and technologies like Cucumber, Java, and Maven",
+        "Use Docker to run both, application and end-to-end tests",
+        "Use Jenkins for continuous integration"
+      ]
     },
     {
       "company": "Ve Global",
