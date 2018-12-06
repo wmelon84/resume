@@ -30,7 +30,8 @@
         "Implement the business logic in PHP and the unit tests with PHPUnit framework. Manage dependencies with Composer",
         "Implement a complete set of end-to-end tests with BDD approach and technologies like Cucumber, Java, and Maven",
         "Use Docker to run both, application and end-to-end tests",
-        "Use Jenkins for continuous integration"
+        "Use Jenkins for continuous integration",
+        "Actively collaborate with R&D team in making decisions about tools, conventions and improvements for the development process"
       ]
     },
     {
