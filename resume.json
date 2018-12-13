@@ -26,7 +26,7 @@
       "startDate": "2018-01-15",
       "summary": "Analyze and implement several applications to work as integration between Ingram's Micro Platform and vendors of all kinds",
       "highlights": [
-        "Analyze product and tech requirements and define technical design for the its implementation",
+        "Analyze the product requirements and create a technical design for its implementation",
         "Implement the business logic in PHP and the unit tests with PHPUnit framework. Manage dependencies with Composer",
         "Implement a complete set of end-to-end tests with BDD approach and technologies like Cucumber, Java, and Maven",
         "Use Docker to run both, application and end-to-end tests",
