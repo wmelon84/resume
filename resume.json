@@ -24,8 +24,10 @@
       "position": "Cloud Integration Developer",
       "website": "https://www.ingrammicrocloud.com",
       "startDate": "2018-01-15",
-      "summary": "Analyze and implement several applications to work as integration between Ingram's Micro Platform and vendors of all kinds",
+      "summary": "Analyze and implement several applications to integrate Ingram's Micro Platform and vendors of all kinds",
       "highlights": [
+        "Technically lead a project to integrate CloudBlue platform with Amazon Web Services as IaaS provider based of internal standards",
+        "Technically lead a project to provide a seamless way to manage IaaS subscriptions of different providers with the same UI by applying best practices and using latest industry technologies such as AOP, gRPC, SpringBoot and Redis",
         "Analyze the product requirements and create a technical design for its implementation",
         "Implement the business logic in PHP and the unit tests with PHPUnit framework. Manage dependencies with Composer",
         "Implement a complete set of end-to-end tests with BDD approach and technologies like Cucumber, Java, and Maven",
