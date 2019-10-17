@@ -65,13 +65,16 @@
       "endDate": "2012-08-01"
     }
   ],
-  "education": [{
-    "institution": "University of the Basque Country",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2007-01-01",
-    "endDate": "2011-01-01"
-  }],
+  "education": [
+    {
+      "institution": "University of the Basque Country",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2007-01-01",
+      "endDate": "2011-01-01"
+    }
+  ],
+  "awards": [],
   "skills": [
     {
       "name": "Programming languages",
