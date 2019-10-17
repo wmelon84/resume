@@ -69,8 +69,8 @@
     "institution": "University of the Basque Country",
     "area": "Software Development",
     "studyType": "Bachelor",
-    "startDate": "2007",
-    "endDate": "2011"
+    "startDate": "2007-01-01",
+    "endDate": "2011-01-01"
   }],
   "skills": [
     {
