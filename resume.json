@@ -65,13 +65,20 @@
       "endDate": "2012-08-01"
     }
   ],
-  "education": [],
+  "education": [{
+    "institution": "University of the Basque Country",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2007",
+    "endDate": "2011"
+  }],
   "skills": [
     {
       "name": "Programming languages",
       "keywords": [
         "Java",
-        "PHP"
+        "PHP",
+        "Python"
       ]
     },
     {
@@ -88,10 +95,9 @@
         "Unit Test",
         "Integration Test",
         "TDD",
-        "BDD",
+        "JUnit",
         "Cucumber",
-        "PHPUnit",
-        "JUnit"
+        "PHPUnit"
       ]
     },
     {
@@ -112,9 +118,7 @@
       "name": "Databases",
       "keywords": [
         "MySQL",
-        "Elasticsearch",
-        "HBase",
-        "DynamoDB"
+        "Redis"
       ]
     },
     {
@@ -144,7 +148,7 @@
       ]
     },
     {
-      "name": "Operative Systems",
+      "name": "Operating Systems",
       "keywords": [
         "Ubuntu",
         "macOS"
@@ -184,8 +188,7 @@
       "name": "Sports",
       "keywords": [
         "Pilates",
-        "Spinning",
-        "Padel"
+        "Crossfit"
       ]
     }
   ]
