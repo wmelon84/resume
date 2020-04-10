@@ -2,8 +2,8 @@
   "name": "resume-deploy",
   "version": "1.0.0",
   "dependencies": {
-    "resume-cli": "^1.1.2",
-    "jsonresume-theme-elegant": "^1.11.2"
+    "jsonresume-theme-elegant": "^1.13.2",
+    "resume-cli": "^1.2.7"
   },
   "scripts": {
     "start": "npm install && npm run build",
