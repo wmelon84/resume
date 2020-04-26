@@ -1,2 +1,2 @@
-# resume
+# avelino©'s resume [![Netlify Status](https://api.netlify.com/api/v1/badges/9299c2e4-f8a3-400b-b795-d2e7fc8b037b/deploy-status)](https://app.netlify.com/sites/avelinocollar/deploys)
 This is the web version of my personal resume
