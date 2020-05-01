@@ -24,8 +24,12 @@
       "position": "Software engineer",
       "website": "https://lookiero.com",
       "startDate": "2019-12-10",
-      "summary": "",
-      "highlights": []
+      "summary": "Help the Transactional Dynamics (XD) team to maintain, fix and improve a Vert.x based monolith",
+      "highlights": [
+        "Directly collaborate with the Product team in different functional initiatives to improve the business and the user experience",
+        "Help in the design and implementation of a separate solution from the monolith for orders, based on Hexagonal Architecture and DDD",
+        "Main used technologies are Groovy and Java as programming languages and Vert.x, Spring and SpringBoot as frameworks"
+      ]
     },
     {
       "company": "Ingram Micro Cloud",
@@ -36,7 +40,7 @@
       "summary": "Analyze and implement several applications to integrate Ingram's Micro Platform and vendors of all kinds",
       "highlights": [
         "Technically lead a project to integrate CloudBlue's platform with Amazon Web Services as IaaS provider based on internal standards",
-        "Technically lead a project to provide a seamless way to manage IaaS subscriptions of different providers with the same UI by applying best practices and using latest industry technologies such as AOP, gRPC, SpringBoot and Redis",
+        "Technically lead a project to provide a seamless way to manage IaaS subscriptions of different providers with the same UI by applying best practices and using latest industry technologies such as AOP, gRPC, Spring Boot and Redis",
         "Analyze the product requirements and create a technical design for its implementation",
         "Implement the business logic in PHP and the unit tests with PHPUnit framework. Manage dependencies with Composer",
         "Implement a complete set of end-to-end tests with BDD approach and technologies like Cucumber, Java, and Maven",
@@ -88,6 +92,7 @@
       "name": "Programming languages",
       "keywords": [
         "Java",
+        "Groovy",
         "PHP",
         "Python"
       ]
@@ -96,7 +101,7 @@
       "name": "Frameworks",
       "keywords": [
         "Spring",
-        "Springboot",
+        "Spring Boot",
         "Spark"
       ]
     },
@@ -106,6 +111,7 @@
         "Unit Test",
         "Integration Test",
         "TDD",
+        "E2E",
         "JUnit",
         "Cucumber",
         "PHPUnit"
@@ -136,8 +142,8 @@
       "name": "CI/CD",
       "keywords": [
         "Jenkins",
-        "TeamCity",
         "Docker",
+        "TeamCity",
         "Mesos",
         "Marathon"
       ]
@@ -145,9 +151,9 @@
     {
       "name": "Dependency managers",
       "keywords": [
-        "Composer",
+        "Gradle",
         "Maven",
-        "Gradle"
+        "Composer"
       ]
     },
     {
@@ -155,14 +161,15 @@
       "level": "",
       "keywords": [
         "IntelliJ",
-        "PhpStorm"
+        "PhpStorm",
+        "DataGrip"
       ]
     },
     {
       "name": "Operating Systems",
       "keywords": [
-        "Ubuntu",
-        "macOS"
+        "macOS",
+        "Ubuntu"
       ]
     },
     {
@@ -171,7 +178,8 @@
         "Jira",
         "Confluence",
         "Git",
-        "Bitbucket"
+        "Bitbucket",
+        "GitHub"
       ]
     }
   ],
@@ -199,7 +207,7 @@
       "name": "Sports",
       "keywords": [
         "Pilates",
-        "Crossfit"
+        "CrossFit"
       ]
     }
   ],
