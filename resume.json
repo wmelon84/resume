@@ -5,7 +5,7 @@
     "picture": "face.jpg",
     "email": "avelinocollar@gmail.com",
     "website": "https://avelinocollar.com",
-    "summary": "I am a software engineer with 9+ years of experience focused on well-designed and implemented software. I like to apply best practices and industry standards, and I am also a team player with experience in Scrum working environments.\n\nCurrently, I work at Lookiero helping the Transactional Dynamics team to maintain an asynchronous monolith and to develop new features in separate applications.\n\nPreviously, I was part of Ingram Micro Cloud where I designed applications to manage IaaS seamlessly by the end-user, and of Ve, in a Scrum team in charge of developing a set of applications (APIs, real-time processing apps, NoSQL databases, etc) to manage products, users, and statistics to provide the best recommendations for third-party e-commerce sites.",
+    "summary": "I am a software engineer with 10+ years of experience focused on well-designed and implemented software. I like to apply best practices and industry standards, and I am also a team player with experience in Scrum working environments.\n\nCurrently, I work at Lookiero helping the Transactional Dynamics team to maintain an asynchronous monolith and to develop new features in separate applications.\n\nPreviously, I was part of Ingram Micro Cloud where I designed applications to manage IaaS seamlessly by the end-user, and of Ve, in a Scrum team in charge of developing a set of applications (APIs, real-time processing apps, NoSQL databases, etc) to manage products, users, and statistics to provide the best recommendations for third-party e-commerce sites.",
     "location": {
       "countryCode": "ES",
       "region": "Cantabria"
@@ -92,17 +92,14 @@
       "name": "Programming languages",
       "keywords": [
         "Java",
-        "Groovy",
-        "PHP",
-        "Python"
+        "Groovy"
       ]
     },
     {
       "name": "Frameworks",
       "keywords": [
         "Spring",
-        "Spring Boot",
-        "Spark"
+        "Spring Boot"
       ]
     },
     {
@@ -113,8 +110,7 @@
         "TDD",
         "E2E",
         "JUnit",
-        "Cucumber",
-        "PHPUnit"
+        "Cucumber"
       ]
     },
     {
@@ -142,18 +138,14 @@
       "name": "CI/CD",
       "keywords": [
         "Jenkins",
-        "Docker",
-        "TeamCity",
-        "Mesos",
-        "Marathon"
+        "Docker"
       ]
     },
     {
       "name": "Dependency managers",
       "keywords": [
         "Gradle",
-        "Maven",
-        "Composer"
+        "Maven"
       ]
     },
     {
@@ -161,7 +153,6 @@
       "level": "",
       "keywords": [
         "IntelliJ",
-        "PhpStorm",
         "DataGrip"
       ]
     },
@@ -201,13 +192,11 @@
       "name": "Travelling"
     },
     {
-      "name": "Series"
-    },
-    {
       "name": "Sports",
       "keywords": [
         "Pilates",
-        "CrossFit"
+        "CrossFit",
+        "Padel"
       ]
     }
   ],
