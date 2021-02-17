@@ -8,5 +8,11 @@
   "scripts": {
     "start": "npm install && npm run build",
     "build": "resume export dist/index.html -t elegant"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmelon84/resume.git"
   }
 }
