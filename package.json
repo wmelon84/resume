@@ -14,8 +14,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/wmelon84/resume.git  "
-  },
-  "engines": {
-    "node": "14.15.1"
   }
 }
