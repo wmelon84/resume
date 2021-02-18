@@ -2,11 +2,17 @@
   "name": "resume-deploy",
   "version": "1.0.0",
   "dependencies": {
-    "jsonresume-theme-elegant": "^1.13.2",
-    "resume-cli": "^1.2.7"
+    "jsonresume-theme-elegant": "^1.14.0",
+    "resume-cli": "^3.0.4"
   },
   "scripts": {
     "start": "npm install && npm run build",
     "build": "resume export dist/index.html -t elegant"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmelon84/resume.git  "
   }
 }
