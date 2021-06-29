@@ -20,9 +20,9 @@
   },
   "work": [
     {
-      "company": "Lookiero",
+      "name": "Lookiero",
       "position": "Software engineer",
-      "website": "https://lookiero.com",
+      "url": "https://lookiero.com",
       "startDate": "2019-12-10",
       "summary": "Help the Transactional Dynamics (XD) team to maintain, fix and improve a Vert.x based monolith",
       "highlights": [
@@ -32,9 +32,9 @@
       ]
     },
     {
-      "company": "Ingram Micro Cloud",
+      "name": "Ingram Micro Cloud",
       "position": "Cloud Integration Developer",
-      "website": "https://www.ingrammicrocloud.com",
+      "url": "https://www.ingrammicrocloud.com",
       "startDate": "2018-01-15",
       "endDate": "2019-11-29",
       "summary": "Analyze and implement several applications to integrate Ingram's Micro Platform and vendors of all kinds",
@@ -50,30 +50,30 @@
       ]
     },
     {
-      "company": "Ve Global",
+      "name": "Ve Global",
       "position": "Big Data Software Developer",
-      "website": "https://www.ve.com",
+      "url": "https://www.ve.com",
       "startDate": "2016-05-19",
       "endDate": "2017-10-20"
     },
     {
-      "company": "Stratio",
+      "name": "Stratio",
       "position": "Big Data Software Developer",
-      "website": "https://www.stratio.com",
+      "url": "https://www.stratio.com",
       "startDate": "2015-08-01",
       "endDate": "2016-05-01"
     },
     {
-      "company": "Fon",
+      "name": "Fon",
       "position": "Java Developer",
-      "website": "https://fon.com",
+      "url": "https://fon.com",
       "startDate": "2012-08-01",
       "endDate": "2015-08-01"
     },
     {
-      "company": "Drago Solutions",
+      "name": "Drago Solutions",
       "position": "Java Developer",
-      "website": "http://www.dragosolutions.com",
+      "url": "https://www.dragosolutions.com",
       "startDate": "2011-01-01",
       "endDate": "2012-08-01"
     }
