@@ -5,7 +5,7 @@
     "picture": "face.jpeg",
     "email": "avelinocollar@gmail.com",
     "website": "https://avelinocollar.com",
-    "summary": "I am a software engineer with 12+ years of experience focused on well-designed and implemented software. I like to apply best practices and industry standards, and I am also a team player with experience in Scrum working environments.\n\nCurrently, I work at Appfire helping the Document Management team to improve category apps .\n\nPreviously, I was part of Shop Team at Lookiero working on offering the best recommendations for the customers.",
+    "summary": "I am a software engineer with 12+ years of experience focused on well-designed and implemented software. I like to apply best practices and industry standards, and I am also a team player with experience in Scrum working environments.\n\nCurrently, I work at Appfire helping the Document Management team to improve category apps.\n\nPreviously, I was part of Shop Team at Lookiero working on offering the best recommendations for the customers.",
     "location": {
       "countryCode": "ES",
       "region": "Cantabria",
@@ -29,7 +29,7 @@
     },
     {
       "name": "Lookiero",
-      "position": "Software engineer",
+      "position": "Senior Software Engineer",
       "url": "https://lookiero.com",
       "startDate": "2019-12-10",
       "endDate": "2023-04-13",
@@ -101,6 +101,7 @@
       "name": "Programming languages",
       "keywords": [
         "Java",
+        "Python",
         "Groovy"
       ]
     },
@@ -108,14 +109,15 @@
       "name": "Frameworks",
       "keywords": [
         "Spring",
-        "Spring Boot"
+        "Spring Boot",
+        "Django"
       ]
     },
     {
       "name": "Testing",
       "keywords": [
-        "Unit Test",
-        "Integration Test",
+        "Unit",
+        "Integration",
         "TDD",
         "E2E",
         "JUnit",
@@ -123,22 +125,9 @@
       ]
     },
     {
-      "name": "Scrum",
-      "level": "Certified",
-      "keywords": [
-        "Expert Scrum Foundations"
-      ]
-    },
-    {
-      "name": "Cloud",
-      "level": "Certified",
-      "keywords": [
-        "AWS Certified Cloud Practitioner"
-      ]
-    },
-    {
       "name": "Databases",
       "keywords": [
+        "PostgreSQL",
         "MySQL",
         "Redis"
       ]
@@ -147,7 +136,8 @@
       "name": "CI/CD",
       "keywords": [
         "Jenkins",
-        "Docker"
+        "Docker",
+        "Github Actions"
       ]
     },
     {
