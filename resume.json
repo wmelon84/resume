@@ -1,14 +1,15 @@
 {
   "basics": {
-    "name": "avelino© collar salazar",
-    "label": "Software Engineer",
-    "picture": "face.jpg",
+    "name": "avelino©",
+    "label": "Senior Software Engineer",
+    "picture": "face.jpeg",
     "email": "avelinocollar@gmail.com",
     "website": "https://avelinocollar.com",
-    "summary": "I am a software engineer with 10+ years of experience focused on well-designed and implemented software. I like to apply best practices and industry standards, and I am also a team player with experience in Scrum working environments.\n\nCurrently, I work at Lookiero helping the Transactional Dynamics team to maintain an asynchronous monolith and to develop new features in separate applications.\n\nPreviously, I was part of Ingram Micro Cloud where I designed applications to manage IaaS seamlessly by the end-user, and of Ve, in a Scrum team in charge of developing a set of applications (APIs, real-time processing apps, NoSQL databases, etc) to manage products, users, and statistics to provide the best recommendations for third-party e-commerce sites.",
+    "summary": "I am a software engineer with 12+ years of experience focused on well-designed and implemented software. I like to apply best practices and industry standards, and I am also a team player with experience in Scrum working environments.\n\nCurrently, I work at Appfire helping the Document Management team to improve category apps.\n\nPreviously, I was part of Shop Team at Lookiero working on offering the best recommendations for the customers.",
     "location": {
       "countryCode": "ES",
-      "region": "Cantabria"
+      "region": "Cantabria",
+      "city": "Bezana"
     },
     "profiles": [
       {
@@ -20,10 +21,18 @@
   },
   "work": [
     {
+      "name": "Appfire",
+      "position": "Senior Software Engineer",
+      "url": "https://appfire.com",
+      "startDate": "2023-05-02",
+      "summary": "Work within the Document Management team and help improve all category related apps"
+    },
+    {
       "name": "Lookiero",
-      "position": "Software engineer",
+      "position": "Senior Software Engineer",
       "url": "https://lookiero.com",
       "startDate": "2019-12-10",
+      "endDate": "2023-04-13",
       "summary": "Help the Transactional Dynamics (XD) team to maintain, fix and improve a Vert.x based monolith",
       "highlights": [
         "Directly collaborate with the Product team in different functional initiatives to improve the business and the user experience",
@@ -92,6 +101,7 @@
       "name": "Programming languages",
       "keywords": [
         "Java",
+        "Python",
         "Groovy"
       ]
     },
@@ -99,14 +109,15 @@
       "name": "Frameworks",
       "keywords": [
         "Spring",
-        "Spring Boot"
+        "Spring Boot",
+        "Django"
       ]
     },
     {
       "name": "Testing",
       "keywords": [
-        "Unit Test",
-        "Integration Test",
+        "Unit",
+        "Integration",
         "TDD",
         "E2E",
         "JUnit",
@@ -114,22 +125,9 @@
       ]
     },
     {
-      "name": "Scrum",
-      "level": "Certified",
-      "keywords": [
-        "Expert Scrum Foundations"
-      ]
-    },
-    {
-      "name": "Cloud",
-      "level": "Certified",
-      "keywords": [
-        "AWS Certified Cloud Practitioner"
-      ]
-    },
-    {
       "name": "Databases",
       "keywords": [
+        "PostgreSQL",
         "MySQL",
         "Redis"
       ]
@@ -138,7 +136,8 @@
       "name": "CI/CD",
       "keywords": [
         "Jenkins",
-        "Docker"
+        "Docker",
+        "Github Actions"
       ]
     },
     {

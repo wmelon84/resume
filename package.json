@@ -1,13 +1,13 @@
 {
   "name": "resume-deploy",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "dependencies": {
-    "jsonresume-theme-elegant": "^1.16.1",
-    "resume-cli": "^3.0.5"
+    "jsonresume-theme-eloquent-mod": "^4.24.0",
+    "resume-cli": "^3.0.8"
   },
   "scripts": {
     "start": "npm install && npm run build",
-    "build": "resume export dist/index.html -t elegant"
+    "build": "resume export dist/index.html -t jsonresume-theme-eloquent-mod"
   },
   "license": "UNLICENSED",
   "private": true,
