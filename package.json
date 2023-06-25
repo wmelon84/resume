@@ -2,12 +2,12 @@
   "name": "resume-deploy",
   "version": "2.0.0",
   "dependencies": {
-    "jsonresume-theme-eloquent-mod": "^4.24.0",
+    "jsonresume-theme-even": "^0.18.1",
     "resume-cli": "^3.0.8"
   },
   "scripts": {
     "start": "npm install && npm run build",
-    "build": "resume export dist/index.html -t jsonresume-theme-eloquent-mod"
+    "build": "resume export dist/index.html -t jsonresume-theme-even"
   },
   "license": "UNLICENSED",
   "private": true,
